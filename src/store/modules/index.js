@@ -1,4 +1,4 @@
-import { ping } from "../modules/ping";
+import { notes } from "../modules/notes";
 import { combineReducers } from "redux";
 
-export const rootReducers = combineReducers({ ping });
+export const rootReducers = combineReducers({ notes });
