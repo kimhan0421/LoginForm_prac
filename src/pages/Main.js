@@ -6,7 +6,7 @@ import NoteWrapper from "../components/notes/NoteWrapper";
 const Main = () => {
   return (
     <MainStructure>
-      <NoteContainer />
+      <NoteWrapper />
     </MainStructure>
   );
 };

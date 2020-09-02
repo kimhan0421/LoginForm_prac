@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../Header/header.scss";
+import styles from "../Header/Header.scss";
 import classNames from "classnames/bind";
 import { Link } from "react-router-dom";
 import { MdLock } from "react-icons/md";
